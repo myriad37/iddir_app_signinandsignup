@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <resources>
+        <color android:name="primary" tools:ignore="ExtraText">#00BFA5</color>
+        <color android:name="primaryVariant">#008E76</color>
+        <color android:name="secondary">#03DAC5</color>
+        <color android:name="background">#FFFFFF</color>
+        <color android:name="surface">#FFFFFF</color>
+        <color android:name="onPrimary">#FFFFFF</color>
+        <color android:name="onSecondary">#000000</color>
+        <color android:name="onBackground">#000000</color>
+        <color android:name="onSurface">#000000</color>
+    </resources>
+
+</selector>
